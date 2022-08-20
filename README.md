@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pradeep Kumar. I love coding. 
+- 👀 I love to code in various languages like Java, PHP, C/C++, Javascript, nodeJS, SQL, windows and linux scripts
+- 🌱 I have used various frameworks like Dropwizard, Springboot, Spring MVC, Struts, codeIgnitor
+- 📫 Reach me on 9893878049
